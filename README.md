@@ -1,4 +1,4 @@
-You have to reconfigure the Paths of files
+You have to reconfigure the Paths of files(Before using the code)
 
 Like your tesseract.exe
 Captured image path in imread() function.
